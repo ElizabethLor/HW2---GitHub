@@ -22,3 +22,6 @@ HW #2 - GitHub Problem
 17. git commit -m “Fifth Commit”
 18. git merge master
 19. -Fix Merge Issue-
+20. git add README.md
+21. git commit -m “Fixed Merge Conflict”
+22. -Fifth Edit-
