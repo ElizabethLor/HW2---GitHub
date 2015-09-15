@@ -3,6 +3,7 @@ September 22, 2015
 CSCI 5828 - Foundation of Software Engineering
 HW #2 - GitHub Problem
 
+
 1. git init
 2. git add README.md
 3. git commit -m “Initial Commit”
@@ -25,3 +26,8 @@ HW #2 - GitHub Problem
 20. git add README.md
 21. git commit -m “Fixed Merge Conflict”
 22. -Fifth Edit-
+
+1. -Sixth Edit-
+2. -Seventh Edit-
+3. -Eighth Edit-
+
